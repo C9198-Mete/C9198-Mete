@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**C9198-Mete/C9198-Mete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
